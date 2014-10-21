@@ -1,5 +1,7 @@
 # You Don't Know JS (book series)
 
+my version : Lincoln Pahwa
+
 This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
 <img src="scope %26 closures/cover.jpg" width="75">&nbsp;
